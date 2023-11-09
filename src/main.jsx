@@ -4,7 +4,6 @@ import { App } from "./App.jsx";
 import { LanguageContext, LanguageProvider } from "./context";
 import { Localization } from "./Localization";
 import { Components } from "./components";
-// import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
     <React.StrictMode>
