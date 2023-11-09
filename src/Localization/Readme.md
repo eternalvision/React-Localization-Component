@@ -1,4 +1,4 @@
-# **LocalizationComponent.jsx, Localization.jsx**
+# **LocalizationComponent.jsx, Languages.jsx**
 
 1. **useState Hook:**
 
